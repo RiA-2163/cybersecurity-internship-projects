@@ -161,16 +161,21 @@ The assessment successfully identified a valid username and recovered the corres
 * Web Application Security Testing
 
 
-## Key Skills Gained
+## Key Takeaways
 
-* Web Application Security Testing
-* Burp Suite Professional
-* HTTP Request Analysis
-* SQL Injection
-* Cross-Site Scripting (XSS)
-* Broken Authentication
-* OWASP Top 10
-* Vulnerability Assessment
+- Learned to identify and exploit common OWASP Top 10 vulnerabilities.
+- Gained hands-on experience with Burp Suite Professional.
+- Improved understanding of HTTP requests and responses.
+- Practiced secure testing in a controlled lab environment.
+
+---
+
+## Mitigation Strategies
+
+- Validate and sanitize all user input.
+- Use parameterized queries to prevent SQL Injection.
+- Implement output encoding and Content Security Policy (CSP) to mitigate XSS.
+- Enforce generic authentication error messages, strong password policies, account lockout mechanisms, and Multi-Factor Authentication (MFA) to reduce authentication-related risks.
 
 ---
 
