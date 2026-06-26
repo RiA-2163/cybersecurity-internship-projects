@@ -47,7 +47,7 @@ PortSwigger Web Security Academy
 
 1. Accessed the product category page.
 2. Intercepted the HTTP request.
-3. Modified the category parameter.
+3. Modified the vulnerable category parameter inside the intercepted HTTP request using Burp Suite Repeater.
 4. Injected the payload:
 
 ```sql
