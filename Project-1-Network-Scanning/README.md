@@ -27,7 +27,7 @@ The objective of this project was to discover live hosts, identify open ports, d
 * Discovered active hosts
 * Performed TCP port scanning
 * Detected running services
-* Identified operating system
+* Performed operating system fingerprinting using Nmap.
 
 ---
 
